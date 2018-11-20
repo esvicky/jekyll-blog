@@ -1,11 +1,11 @@
 # Site
 title:              Victoria Espinosa
 bio:                'Love to run and code.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "I'm a person who enjoy what I do, develop helpful things for people needs."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/logo.jpg'
+background:         'assets/img/bg-galaxy.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://esvicky.github.io
@@ -29,7 +29,6 @@ sass:
 disqus_shortname:   taylantatli
 
 # Social
-# if you don't have any of social below, comment the line.
 #google:
   #plus:            #username
   #analytics:
@@ -39,28 +38,7 @@ disqus_shortname:   taylantatli
 #bing-verify:
 email:              vickyespinosa95@gmail.com
 twitter:            vicky_espinosa
-#facebook:           username
 github-url:         esvicky
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
 
 # Gems
 gems:

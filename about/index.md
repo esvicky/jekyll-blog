@@ -29,4 +29,6 @@ comments: true
 * Git
 * Expo
 
+If you want to know more check out my [Resumé](https://registry.jsonresume.org/victoriaespinosa?theme=elegant).
+
 
